@@ -1,2 +1,4 @@
-Kindly refer to the master branch for details.
-This uses Python to automatically like all posts on your facebook feed for a given time.
+This program uses openCV, pyautogui and a few more libraries to automatically like all the posts on your social media. 
+Requirements: Chrome, Python, User must be logged in, User needs to take a snapshot of some part of the webpage that always opens at the homepage like name or logo and save it as logo.png 
+Also, the snapshot of the like icon must be saved as like.png Code has been updated for Intagram! For beginners, it is very important to install these libraries: webbrowser, pyautogui, openCV, imutils, numpy, time(use pip install ____) 
+Numpy is not used in this version. Although it was used in previous version which i have not uploaded. It is still there as it might be used in the future versions.
