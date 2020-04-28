@@ -1,4 +1,3 @@
 # auto-like
-use your social media account to like every post it using python.
-\n
-run script.py using python on your computer.
+This program uses openCV, pyautogui and a few more libraries to automatically like all the posts on your social media. 
+Requirements: Chrome, Python, User must be logged in, User needs to take a snapshot of some part of the webpage that always opens at the homepage like name or logo and save it as logo.png Also, the snapshot of the like icon must be saved as like.png
