@@ -7,7 +7,7 @@ import numpy as np
 import time
 from random import randint
 
-url = 'https://www.quora.com/' #our website
+url = 'https://www.facebook.com/' #our website
 path = 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s' #path of chrome
 webbrowser.get(path).open(url) #open website on chrome
 time.sleep(3)
